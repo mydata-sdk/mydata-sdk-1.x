@@ -9,7 +9,7 @@ __credits__ = ["Harri Hirvonsalo", "Aleksi Palomäki"]
 __license__ = "MIT"
 __version__ = "0.0.1"
 __maintainer__ = "Jani Yli-Kantola"
-__contact__ = "https://github.com/HIIT/mydata-stack"
+__contact__ = "https://github.com/mydata-sdk/mydata-stack-1.x"
 __status__ = "Development"
 """
 import json

@@ -146,7 +146,7 @@ definitions:
                 properties:
                   ssr:
                     type: object
-                    description: "See: https://github.com/HIIT/mydata-stack/blob/master/mydata-linking.pdf"
+                    description: "See: https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-linking.pdf"
               type:
                 type: string
                 description: string containing type
@@ -158,7 +158,7 @@ definitions:
                 properties:
                   slr:
                     type: object
-                    description: "See: https://github.com/HIIT/mydata-stack/blob/master/mydata-linking.pdf"
+                    description: "See: https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-linking.pdf"
               type:
                 type: string
                 description: string containing type

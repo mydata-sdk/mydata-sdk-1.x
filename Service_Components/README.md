@@ -26,7 +26,7 @@ Service Components implement
 ## Repository structure
 
 ## Support / Contact / Contribution
-[MyData Architecture](https://github.com/HIIT/mydata-stack)
+[MyData Architecture](https://github.com/mydata-sdk/mydata-stack-1.x)
 
 ## Copying and License
 This code is licensed under [MIT License](LICENSE)

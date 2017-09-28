@@ -66,17 +66,17 @@ definitions:
         properties:
           cr:
             type: object
-            description: "See: https://github.com/HIIT/mydata-stack/blob/master/mydata-data-authz.pdf"
+            description: "See: https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-data-authz.pdf"
 
           csr:
             type: object
-            description: "See: https://github.com/HIIT/mydata-stack/blob/master/mydata-data-authz.pdf"
+            description: "See: https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-data-authz.pdf"
       sink:
         type: object
         properties:
           cr:
             type: object
-            description: "See: https://github.com/HIIT/mydata-stack/blob/master/mydata-data-authz.pdf"
+            description: "See: https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-data-authz.pdf"
           csr:
             type: object
-            description: "See: https://github.com/HIIT/mydata-stack/blob/master/mydata-data-authz.pdf"
+            description: "See: https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-data-authz.pdf"

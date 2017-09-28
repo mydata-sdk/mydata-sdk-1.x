@@ -6,7 +6,7 @@ info:
     ' #### MyData-SDK - MyData Account API - Internal '
   version: '1.2.1'
   contact:
-    url: 'https://github.com/HIIT/mydata-stack'
+    url: 'https://github.com/mydata-sdk/mydata-stack-1.x'
   license:
     name: 'MIT License (MIT)'
     url: 'https://opensource.org/licenses/MIT'
@@ -36,7 +36,7 @@ securityDefinitions:
 
 externalDocs:
   description: 'External documentation'
-  url: 'https://github.com/HIIT/mydata-stack'
+  url: 'https://github.com/mydata-sdk/mydata-stack-1.x'
 
 paths:
   /auth/sdk/:
@@ -485,7 +485,7 @@ definitions:
         description: "Resource type: 'ServiceLinkRecord'"
       attributes:
         type: object
-        description: 'Payload for Service Link Record - [MyData Service Linking Specification] (https://github.com/HIIT/mydata-stack)'
+        description: 'Payload for Service Link Record - [MyData Service Linking Specification] (https://github.com/mydata-sdk/mydata-stack-1.x)'
 
   newSlSr:
     type: object
@@ -495,7 +495,7 @@ definitions:
         description: "Resource type: 'ServiceLinkStatusRecord'"
       attributes:
         type: object
-        description: 'Payload for Service Link Status Record - [MyData Service Linking Specification] (https://github.com/HIIT/mydata-stack)'
+        description: 'Payload for Service Link Status Record - [MyData Service Linking Specification] (https://github.com/mydata-sdk/mydata-stack-1.x)'
 
   Slr:
     type: object
@@ -511,7 +511,7 @@ definitions:
         properties:
           slr:
             type: object
-            description: 'Service Link Record as JWS - [MyData Service Linking Specification] (https://github.com/HIIT/mydata-stack)'
+            description: 'Service Link Record as JWS - [MyData Service Linking Specification] (https://github.com/mydata-sdk/mydata-stack-1.x)'
 
   Ssr:
     type: object
@@ -527,7 +527,7 @@ definitions:
         properties:
           ssr:
             type: object
-            description: 'Service Link Status Record as JWS - [MyData Service Linking Specification] (https://github.com/HIIT/mydata-stack)'
+            description: 'Service Link Status Record as JWS - [MyData Service Linking Specification] (https://github.com/mydata-sdk/mydata-stack-1.x)'
 
   newServiceLinkRequest:
     type: object
@@ -630,7 +630,7 @@ definitions:
         description: "Resource type: 'ConsentRecord'"
       attributes:
         type: object
-        description: 'Payload for Consent Record - [MyData Authorization Specification] (https://github.com/HIIT/mydata-stack)'
+        description: 'Payload for Consent Record - [MyData Authorization Specification] (https://github.com/mydata-sdk/mydata-stack-1.x)'
 
   newConsentStatus:
     type: object
@@ -640,7 +640,7 @@ definitions:
         description: "Resource type: 'ConsentStatusRecord'"
       attributes:
         type: object
-        description: 'Payload for Consent Status Record - [MyData Authorization Specification] (https://github.com/HIIT/mydata-stack)'
+        description: 'Payload for Consent Status Record - [MyData Authorization Specification] (https://github.com/mydata-sdk/mydata-stack-1.x)'
 
   ConsentRecord:
     type: object
@@ -656,7 +656,7 @@ definitions:
         properties:
           cr:
             type: object
-            description: 'Consent Record as JWS - [MyData Authorization Specification] (https://github.com/HIIT/mydata-stack)'
+            description: 'Consent Record as JWS - [MyData Authorization Specification] (https://github.com/mydata-sdk/mydata-stack-1.x)'
 
   ConsentStatusRecord:
     type: object
@@ -672,7 +672,7 @@ definitions:
         properties:
           csr:
             type: object
-            description: 'Consent Status Record as JWS - [MyData Authorization Specification] (https://github.com/HIIT/mydata-stack)'
+            description: 'Consent Status Record as JWS - [MyData Authorization Specification] (https://github.com/mydata-sdk/mydata-stack-1.x)'
 
   newConsentRequest:
     type: object
