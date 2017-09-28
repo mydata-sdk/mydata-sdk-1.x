@@ -22,8 +22,8 @@ You need to have [Docker](https://www.docker.com/products/overview#/install_the_
 
 Clone the repo and start the Docker Compose stack:
 ```
-git clone https://github.com/HIIT/mydata-sdk
-cd mydata-sdk
+git clone https://github.com/mydata-sdk/mydata-sdk-1.x
+cd mydata-sdk-1.x
 sudo sh start.sh  # Needed to run root only if you haven't configured a docker group for your system
 ```
 

@@ -43,7 +43,7 @@ These instructions are using 'Y3xUcheg' as root password.
     cd myDataSDK
 
 ### Clone from Git
-    git clone https://github.com/HIIT/mydata-sdk.git
+    git clone https://github.com/mydata-sdk/mydata-sdk-1.x.git
 
 ### Configure
 
