@@ -3,7 +3,7 @@
 # MyData SDK Components
 This is a part of MyData-SDK implementation of MyData Architecture.
 
-Note: This repository contains archived historical material produched in Digital Health Revolution project. This repository is mainteined only for informational reasons and repository is not actively maintained so it may contain dead links. Current version can be found from [https://github.com/mydata-sdk/mydata-sdk/](https://github.com/mydata-sdk/mydata-sdk/)
+Note: This repository contains archived historical material produched in Digital Health Revolution project 2014-2016. This repository is maintained only for informational reasons and repository is not actively maintained so it may contain dead links. Current version can be found from [https://github.com/mydata-sdk/mydata-sdk/](https://github.com/mydata-sdk/mydata-sdk/)
 
 Components are split to their own folders
 
@@ -42,7 +42,7 @@ python ui_flow.py
 
 ## Deployment
 
-Note: For the time being, the Service Registry repository can be found at http://github.com/digitalhealthrevolution/serviceregistry
+Note: For the time being, the Service Registry repository can be found at http://github.com/digitalhealthrevolution/serviceregistry.
 
 Deployment instructions for each component can be found from module's documentation.
 
